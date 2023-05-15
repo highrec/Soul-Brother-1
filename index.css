@@ -1,0 +1,66 @@
+h1{ 
+    color:red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+    }
+h2{ 
+    color:red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+h3
+{
+    color:red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+h4{
+    color: red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+    border-radius: 7px;
+    border-width: 7px;
+    border-color: black;
+    border-style: ridge;
+
+}
+body{
+background-image: url("afroman.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+p{
+    text-align: center;
+    font-size:  25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique; 
+    font-weight: bold;
+    color:red;
+
+    
+}
+ button{
+    align-items: center;
+    padding: 16px, 30px;
+    margin: 12px, 6px;
+    border-radius: 5px;
+    border-width: 5px; 
+    border-color: black;
+    border-style: double;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    background-color:red ;
+    height: 45px;
+    width: 75px;
+
+
+ }
